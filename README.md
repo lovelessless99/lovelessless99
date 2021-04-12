@@ -32,3 +32,16 @@
 | <ul><li><a href="https://github.com/lovelessless99/Dental_Preprocessing">Dental_Preprocessing</a></li><li><a href="https://github.com/lovelessless99/Dental_Project">Dental_Project</a></li></ul> | Python                     | My Master Research Code Backup ( Deep Learning for Periodontal bone loss prediction ) | ⭐⭐⭐⭐
 | [weather_forecast](https://github.com/lovelessless99/weather_forecast) | Python (Selenium)               |  Web Crawler to radar images for deep learning in weather forecasting  | ⭐⭐
 | [Patents_Crawler](https://github.com/lovelessless99/Patents_Crawler)  | Python                         |  Web Crawler to patents data for patents data analyze      | ⭐⭐
+
+### 🪐 3. Future Work
+| Project Name   | Language                         | Targets |
+|----------------|----------------------------------|---------|
+| Python VM      | C++                              | Write a Python VM in C++ and learn its machanism |
+| C♭ compiler    | Python                           | Write a C-like Compiler in Python |
+| Parallel Programming | C++                        | [NTHU Course](https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT&index=3)|
+| ELF Parser     | C                                | Learning the ELF format and linker, loader concept |
+| Effective python 90 specific ways to write better | Python | Learning good pythonic coding style from the book |
+| Red-Black Tree | Python                           | Learning the advance self-balance tree and implement it in python, testing the efficiency |
+| Algorithm      | Python or C++                    | Leetcode question history and some algorithm implementation | 
+
+
