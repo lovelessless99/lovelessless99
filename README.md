@@ -36,7 +36,7 @@
 ### 🪐 3. Future Work
 | Project Name   | Language                         | Targets |
 |----------------|----------------------------------|---------|
-| Python VM      | C++                              | Write a Python VM in C++ and learn its machanism |
+| [Python VM](https://github.com/lovelessless99/Python_VM)      | C++                              | Write a Python VM in C++ and learn its machanism |
 | C♭ compiler    | Python                           | Write a C-like Compiler in Python |
 | Parallel Programming | C++                        | [NTHU Course](https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT&index=3)|
 | ELF Parser     | C                                | Learning the ELF format and linker, loader concept |
