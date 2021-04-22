@@ -41,7 +41,10 @@
 | Parallel Programming | C++                        | [NTHU Course](https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT&index=3)|
 | ELF Parser     | C                                | Learning the ELF format and linker, loader concept |
 | [Effective python 90 specific ways to write better](https://github.com/lovelessless99/Effective_Python) | Python | Learning good pythonic coding style from the book |
-| Red-Black Tree | Python                           | Learning the advance self-balance tree and implement it in python, testing the efficiency |
+| [Red-Black Tree](https://github.com/lovelessless99/Red-Black-Tree) | Python                           | Learning the advance self-balance tree and implement it in python, testing the efficiency |
 | Algorithm      | Python or C++                    | Leetcode question history and some algorithm implementation | 
+| Debugger      | C or C++                    | Learning debugger ptrace machanism and breakpoints |
+| Just-in-time Compiler      | C++ or Python  | Learning how just-in-time compiler work |
+
 
 
