@@ -35,7 +35,7 @@
 | [weather_forecast](https://github.com/lovelessless99/weather_forecast) | Python (Selenium)               |  Web Crawler to radar images for deep learning in weather forecasting  | ⭐⭐
 | [Patents_Crawler](https://github.com/lovelessless99/Patents_Crawler)  | Python                         |  Web Crawler to patents data for patents data analyze      | ⭐⭐
 
-### 🪐 3. Future Work
+### 🪐 3. Ongoing and Future Work
 | Project Name   | Language                         | Targets |
 |----------------|----------------------------------|---------|
 | [Python VM](https://github.com/lovelessless99/Python_VM)      | C++                              | Write a Python VM in C++ and learn its machanism |
