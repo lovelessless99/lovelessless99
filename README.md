@@ -17,6 +17,7 @@
 | Project Name   | Language                         | Targets | Ranking (⭐x5) 
 |----------------|----------------------------------|---------| ---------|
 | [Python VM](https://github.com/lovelessless99/Python_VM) |  C++                             | Learning the python VM machanism | 🌟🌟🌟🌟🌟
+| [Just-in-time Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler)      | <ul><li>C++</li><li>C</li></ul>  | Learning how just-in-time compiler work |🌟🌟🌟🌟🌟
 | [Simple_Netstat](https://github.com/lovelessless99/Simple_Netstat) | C                                |  Implement the netstat code and support ipv4 and ipv6 format with clean C code  | ⭐⭐⭐⭐
 | [108_Network_Programming](https://github.com/lovelessless99/108_Network_Programming) | <ul><li>C++</li><li>C</li></ul>  |  NCTU Networking Programming <br> <ul><li>N pipe shell</li> <li>Multiuser chatroom</li> <li>Http Servere with boost library</li> <li>FTP server with boost library</li> </ul>  | ⭐⭐⭐⭐
 | [Bash_Test_Tool](https://github.com/lovelessless99/Bash_Test_Tool) | <ul><li>Bash</li><li>C</li></ul> |  Learning to use Bash testing tools  | ⭐⭐⭐
@@ -41,12 +42,12 @@
 | [Python VM](https://github.com/lovelessless99/Python_VM)      | C++                              | Write a Python VM in C++ and learn its machanism |
 | [Effective python 90 specific ways to write better](https://github.com/lovelessless99/Effective_Python) | Python | Learning good pythonic coding style from the book |
 | [Red-Black Tree](https://github.com/lovelessless99/Red-Black-Tree) | Python                           | Learning the advance self-balance tree and implement it in python, testing the efficiency |
+| [Just-in-time Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler)      | C or C++  | Learning how just-in-time compiler work |
 | C♭ compiler    | Python                           | Write a C-like Compiler in Python |
 | Parallel Programming | C++                        | [NTHU Course](https://www.youtube.com/watch?v=t_q0Tajpyso&list=PLS0SUwlYe8cxqw70UHOE5n4Lm-mXFXbZT&index=3)|
 | ELF Parser     | C                                | Learning the ELF format and linker, loader concept |
 | Algorithm      | Python or C++                    | Leetcode question history and some algorithm implementation | 
 | Debugger      | C or C++                    | Learning debugger ptrace machanism and breakpoints |
-| Just-in-time Compiler      | C++ or Python  | Learning how just-in-time compiler work |
 
 
 
