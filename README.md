@@ -49,7 +49,7 @@
 | Algorithm      | Python or C++                    | Leetcode question history and some algorithm implementation | 
 | Debugger      | C or C++                    | Learning debugger ptrace machanism and breakpoints |
 | Modern C | C             | Modern C Practice | 
-| CSAPP | C             | CSAPP L | 
+| CSAPP | C             | CSAPP Lab and some practice | 
 
 
 
