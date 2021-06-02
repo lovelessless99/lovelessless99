@@ -1,8 +1,7 @@
 ## 🐲 Welcome to my blog
 ### [Coding Hub](https://lovelessless99.github.io/coding-hub/).
-
-Current topic : `Just in time compiler`, `IEEE 754`
-
+* Newest topic: `ELF format` and `linker` 
+* Finished topic : `Just in time compiler`, `IEEE 754`
 ### Enjoy it!
 
 I share my github's note on my blog, and make them more beautiful and readable! If there are some errors in my article, please let me know, thank you! 😀  
