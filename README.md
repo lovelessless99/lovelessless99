@@ -18,6 +18,8 @@ I share my github's note on my blog, and make them more beautiful and readable! 
   "love"       : [ "sleep"          , "slept"            , "ZZZZZ"                 ]
 }
 ```
+![lovelessless99's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelessless99&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelessless99&layout=compact&hide=Jupyter%20Notebook,html&langs_count=10)](https://github.com/lovelessless99/github-readme-stats)
 
 ## 💻 Project and Goals
 ### 🪐 1. C, C++ and Bash
