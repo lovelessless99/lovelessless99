@@ -1,6 +1,6 @@
 ## 🐲 Welcome to my blog
 ### [Coding Hub](https://lovelessless99.github.io/coding-hub/).
-* Newest topic: `LLVM (2021/06/30)`
+* Newest topic: `LLVM (2021/06/30)`, Brand-New Website(2021/07/06)
 * Ongoing topic : `ELF format and linker`, `Virtual Machine` 
 * Finished topic : `Just in time compiler`, `IEEE 754`
 ### Enjoy it!
