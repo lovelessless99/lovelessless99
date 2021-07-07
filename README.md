@@ -6,7 +6,7 @@
 ### Enjoy it!
 
 
-Recently(2021/07/07), I updated the PWA property and renew my website outlook to my website, A brand-new website born. I Hope you like it ! I shared my github's note on my blog, and make them more beautiful and readable! If there are some errors in my article, please let me know, thank you! 😀  
+Recently(2021/07/07), I updated the my website with adding PWA property and renewing the outlook of blog. A brand-new website born. I Hope you like it! I shared my github's note on my blog, and make them more beautiful and readable! If there are some errors in my article, please let me know, thank you! 😀  
 
 
 ## 😄 About me
