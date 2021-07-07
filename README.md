@@ -1,11 +1,13 @@
 ## 🐲 Welcome to my blog
-### [Coding Hub](https://lovelessless99.github.io/coding-hub/).
-* Newest topic: `LLVM (2021/06/30)`, Brand-New Website(2021/07/06)
+### Brand-new [ Coding Hub ](https://lovelessless99.github.io/coding-hub/) with PWA.
+* Newest topic: `LLVM (2021/06/30)`
 * Ongoing topic : `ELF format and linker`, `Virtual Machine` 
 * Finished topic : `Just in time compiler`, `IEEE 754`
 ### Enjoy it!
 
-I share my github's note on my blog, and make them more beautiful and readable! If there are some errors in my article, please let me know, thank you! 😀  
+
+Recently(2021/07/07), I updated the PWA property and renew my website outlook to my website, A brand-new website born. I Hope you like it ! I shared my github's note on my blog, and make them more beautiful and readable! If there are some errors in my article, please let me know, thank you! 😀  
+
 
 ## 😄 About me
 ```json
@@ -18,8 +20,9 @@ I share my github's note on my blog, and make them more beautiful and readable! 
   "love"       : [ "sleep"          , "slept"            , "ZZZZZ"                 ]
 }
 ```
-![lovelessless99's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelessless99&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelessless99&layout=compact&hide=Jupyter%20Notebook,html&langs_count=10)](https://github.com/lovelessless99/github-readme-stats)
+![lovelessless99's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelessless99&show_icons=true&theme=dracula)
+
 
 ## 💻 Project and Goals
 ### 🪐 1. C, C++ and Bash
