@@ -1,7 +1,7 @@
 ## 🐲 Welcome to my blog
 
 ### Websites with PWA for compiler topic
-*  [ Coding Hub ](https://lovelessless99.github.io/coding-hub/) for compiler and virtual machine techniques.
+*  [ Coding Hub ](https://lovelessless99.github.io/coding-hub/) for compiler and virtual machine techniques (in Chinese).
 
 ### Future topics - parallel computing and C++ programming
 *  [Parallel Universe](https://lovelessless99.github.io/Parallel-Universe/) for concurrency and parallel computing issue.
@@ -9,21 +9,21 @@
 
 
 ## 💻 Project and Goals
-### 🪐 1. Major project
+### 🪐 1.  Main project
 | Project Name   | Language                         | Targets | 
 |----------------|----------------------------------|---------| 
-| [Just-in-time Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler)      | <ul><li>C++</li><li>C</li></ul>  | Learning how just-in-time compiler work |
-| [IEEE_754_Tutorial](https://github.com/lovelessless99/IEEE_754_Tutorial)| Python                         |  Leaning Floating Point IEEE 754 format (CSAPP)  | 
+| [Just in time Compiler](https://github.com/lovelessless99/Just-In-Time-Compiler)      | <ul><li>C++</li><li>C</li></ul>  | Learning how just-in-time compiler work |
+| [IEEE-754 Tutorial](https://github.com/lovelessless99/IEEE_754_Tutorial)| Python                         |  Leaning Floating Point IEEE 754 format (CSAPP)  | 
 
 
 ### 🪐 2. Side project
 | Project Name   | Language                         | Targets | 
 |----------------|----------------------------------|---------| 
-| [Network_Programming](https://github.com/lovelessless99/108_Network_Programming) | <ul><li>C++</li><li>C</li></ul>  |  NCTU Networking Programming <br> <ul><li>N pipe shell</li> <li>Multiuser chatroom</li> <li>Http erver with boost library</li> <li>FTP server with boost library</li> </ul>  | 
-| [Simple_Netstat](https://github.com/lovelessless99/Simple_Netstat) | C                                |  Implement the netstat code and support ipv4 and ipv6 format with clean C code  | 
-| [Subnet-Calculator](https://github.com/lovelessless99/Subnet-Calculator) | Python                        |  Learning the subnet knowledge, and implement the subnet calculator in python       | 
-| [web_app](https://github.com/lovelessless99/web_app)           | <ul><li>Docker</li><li>Typescript(Angular, frontend)</li> <li>Python(flask, backend)</li></ul>| Separation of frontend and backend, and dockerize them         | 
-| [Bash_Test_Tool](https://github.com/lovelessless99/Bash_Test_Tool) | <ul><li>Bash</li><li>C</li></ul> |  Learning to use Bash testing tools  |
+| [Network Programming](https://github.com/lovelessless99/108_Network_Programming) | <ul><li>C++</li><li>C</li></ul>  |  NCTU Networking Programming <br> <ul><li>N pipe shell</li> <li>Multiuser chatroom</li> <li>Http erver with boost library</li> <li>FTP server with boost library</li> </ul>  | 
+| [Simple Netstat](https://github.com/lovelessless99/Simple_Netstat) | C                                |  Implement the netstat code and support ipv4 and ipv6 format with clean C code  | 
+| [Subnet Calculator](https://github.com/lovelessless99/Subnet-Calculator) | Python                        |  Learning the subnet knowledge, and implement the subnet calculator in python       | 
+| [Web-App using docker](https://github.com/lovelessless99/web_app)           | <ul><li>Docker</li><li>Typescript(Angular, frontend)</li> <li>Python(flask, backend)</li></ul>| Separation of frontend and backend, and dockerize them         | 
+| [Bash Test Tool](https://github.com/lovelessless99/Bash_Test_Tool) | <ul><li>Bash</li><li>C</li></ul> |  Learning to use Bash testing tools  |
 
 
 ### 🪐 3. Ongoing and Future Work
